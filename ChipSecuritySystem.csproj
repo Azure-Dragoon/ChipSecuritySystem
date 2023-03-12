@@ -43,6 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ChipLinker.cs" />
+    <Compile Include="ChipOrganizer.cs" />
     <Compile Include="Color.cs" />
     <Compile Include="ColorChip.cs" />
     <Compile Include="Constants.cs" />
